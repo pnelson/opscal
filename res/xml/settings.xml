@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+  <ListPreference android:title="Team"
+                  android:key="team"
+                  android:summary="Select your team."
+                  android:entries="@array/teams"
+                  android:entryValues="@array/teams" />
+</PreferenceScreen>

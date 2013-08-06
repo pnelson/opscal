@@ -1,0 +1,25 @@
+OpsCal
+======
+
+A former workplace was manually generating their shift work calendar in Excel
+every year. The schedule followed a simple pattern and I was interested in
+trying out some Android development so this is what I came up with on my own
+time. Though the exact implementation may not be reusable, I think this project
+is a good example Android application.
+
+Icons
+-----
+
+The 'gears' icon was designed by Edward Boatman
+(http://thenounproject.com/edward/#) and licensed under Creative Commons
+Attribution (https://creativecommons.org/licenses/by/3.0/):
+
+- http://thenounproject.com/noun/gears/#icon-No179
+
+The remaining were published under public domain:
+
+- http://thenounproject.com/noun/information/#icon-No22
+- http://thenounproject.com/noun/arrow/#icon-No36
+- http://thenounproject.com/noun/sun/#icon-No76
+- http://thenounproject.com/noun/moon/#icon-No128
+- http://thenounproject.com/noun/no/#icon-No558
